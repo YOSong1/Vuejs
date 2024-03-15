@@ -11,3 +11,4 @@ Mysql Workbench 접속 및 database 생성 과정
 ![img7](https://github.com/YOSong1/Vuejs/assets/43607595/0f1fb25b-b98a-429b-aa8c-62deea80078e)
 ![img8](https://github.com/YOSong1/Vuejs/assets/43607595/6891aa25-343c-44b9-84f4-c82cd3c6a2d0)
 ![img9](https://github.com/YOSong1/Vuejs/assets/43607595/7be68041-010a-4166-baeb-5385f994b19f)
+ㄴㅇㄹ
